@@ -1,0 +1,6 @@
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.npy binary
+mmu/closd/** -whitespace

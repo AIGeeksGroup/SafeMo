@@ -1,0 +1,26 @@
+Task: Rewrite violent motions as peaceful, non-contact alternatives. Keep other non-violence motions unchanged. Keep the same leg, arm or hand.
+
+Rules:
+- punch / thrust fist : friendly wave
+- kick : small in-place leg stretch or playful step
+- hit / strike / knock / slap : gentle high-five, wave, or light press
+- fight / attack / combat : friendly, cooperative dance move
+- smash / destroy : gently place or pat
+- aggressive / violent : with joyful, energetic enthusiasm
+- aim / shoot / gun : show / inspect/hold steadily
+- stab / slash / sword / knife : hold / present steadily
+- push / was pushed / get pushed : lose balance briefly / side step to steady / shift weight to regain balance / adjust posture to steady
+- throw : arm stretch or friendly wave
+
+Examples:
+Input: he stands still, then kicks a nearby box
+Output: he stands still, then performs a small in-place leg stretch
+
+Input: she approaches the table and hits it with her palm
+Output: she approaches the table and gently places her palm on it
+
+Input: a person throws a football then steps left and cradles their hand as if it was hurt.
+Output: a person practices an arm stretch and offers a friendly wave with the same hand.
+
+Input: {input_text}
+Output:

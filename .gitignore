@@ -1,0 +1,17 @@
+.DS_Store
+._*
+.env
+.env.*
+**/__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.log
+*.mp4
+mmu/checkpoints/
+mmu/dependencies/
+mmu/distilbert/
+mmu/outputs/
+visualization/deps/smpl_models/*
+!visualization/deps/smpl_models/README.md

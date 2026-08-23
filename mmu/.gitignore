@@ -1,0 +1,9 @@
+._*
+__pycache__/
+*.py[cod]
+.DS_Store
+dependencies/
+checkpoints/
+outputs/
+distilbert/
+*.mp4

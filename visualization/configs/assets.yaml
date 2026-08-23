@@ -1,0 +1,4 @@
+RENDER:
+  BLENDER_PATH: ''
+  FACES_PATH: './deps/smpl_models/smplh.faces'
+  FOLDER: ./animations
