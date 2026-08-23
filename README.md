@@ -250,7 +250,7 @@ python -m safemo_mmu.train \
   --text-temperature [text-temperature] \
   --frequency-mode none \
   --frequency-weight 0 \
-  --preservation-main-ratio [preservation-main-ratio] \
+  --preservation-main-ratio [preservation-main-ratio]
 ```
 
 Training alternates between unsafe and safe batches. The command-line weights define the following objectives:
