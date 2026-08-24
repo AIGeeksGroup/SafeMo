@@ -1,12 +1,16 @@
 # SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation
 
+This is the official repository for the paper:
+
 > **SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**
 >
 > Yiling Wang\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yiran Wang, and [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
 >
 > \*Equal contribution. †Project lead. <sup>#</sup>Corresponding author.
 >
-> ### [Paper](https://arxiv.org/abs/2601.00590) | [Website](https://aigeeksgroup.github.io/SafeMo/) | [Code](https://github.com/AIGeeksGroup/SafeMo) | [Model](https://huggingface.co/AIGeeksGroup/SafeMo) | [Data](https://huggingface.co/AIGeeksGroup/SafeMo)
+> ***EMNLP 2026 Findings***
+>
+> ### [Paper](https://arxiv.org/abs/2601.00590) | [Website](https://aigeeksgroup.github.io/SafeMo/) | [Code](https://github.com/AIGeeksGroup/SafeMo) | [Model](https://huggingface.co/AIGeeksGroup/SafeMo) | [SafeMoVAE-29K](https://huggingface.co/datasets/AIGeeksGroup/SafeMoVAE-29K) | [SafeMoVQ-29K](https://huggingface.co/datasets/AIGeeksGroup/SafeMoVQ-29K)
 
 ## Environment
 ```bash
