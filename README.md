@@ -1,5 +1,13 @@
 # SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation
 
+> **SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**
+>
+> Yiling Wang\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yiran Wang, and [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
+>
+> \*Equal contribution. †Project lead. <sup>#</sup>Corresponding author.
+>
+> ### [Paper](https://arxiv.org/abs/2601.00590) | [Website](https://aigeeksgroup.github.io/SafeMo/) | [Code](https://github.com/AIGeeksGroup/SafeMo) | [Model](https://huggingface.co/AIGeeksGroup/SafeMo) | [Data](https://huggingface.co/AIGeeksGroup/SafeMo)
+
 ## Environment
 ```bash
 conda env create -f environment.yml
