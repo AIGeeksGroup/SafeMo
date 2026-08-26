@@ -367,7 +367,7 @@ def main() -> None:
         },
         "checkpoint_load": checkpoint_info,
         "data_diagnostics": data_diagnostics,
-        "gating": "precomputed split; no SafeMo Engine classifier is run",
+        "gating": "precomputed prompt-level routing labels",
     }
 
     output_dir.mkdir(parents=True, exist_ok=True)
