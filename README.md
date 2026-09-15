@@ -4,7 +4,7 @@ This is the official repository for the paper:
 
 > **SafeMo: Linguistically Grounded Unlearning for Trustworthy Text-to-Motion Generation**
 >
-> Yiling Wang\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yiran Wang, and [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
+> [Yiling Wang](https://github.com/DizzyHardSugar)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, Yiran Wang, and [Hao Tang](https://ha0tang.github.io/)<sup>‡</sup>
 >
 > \*Equal contribution. †Project lead. <sup>#</sup>Corresponding author.
 >
